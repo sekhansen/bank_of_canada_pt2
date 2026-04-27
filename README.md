@@ -1,6 +1,6 @@
 # Bank of Canada — Machine Learning for Economics
 
-Materials from a short course on machine learning methods for economics taught at the Bank of Canada by [Stephen Hansen](https://github.com/sekhansen).
+Materials from a short course on machine learning methods for economics taught at the Bank of Canada.
 
 ## Part 1: Applied LLMs for Forecasting and Policy Research
 
